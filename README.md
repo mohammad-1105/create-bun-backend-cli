@@ -23,7 +23,7 @@ A powerful CLI tool to generate a feature-rich Bun backend project with configur
 
 ```bash
 # Download the script
-curl -o create-bun-backend.sh https://raw.githubusercontent.com/mohammad-1105/create-bun-backend/main/create-bun-backend.sh
+curl -o create-bun-backend.sh https://raw.githubusercontent.com/mohammad-1105/create-bun-backend-cli/main/create-bun-backend.sh
 
 # Make it executable
 chmod +x create-bun-backend.sh
